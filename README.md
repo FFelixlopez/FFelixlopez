@@ -29,7 +29,7 @@ Descripción: Mi primer proyecto en Henry, con la finalidad de construir la prim
 Aptitudes: Desarrollo de habilidades, Gestión del tiempo, JavaScript
 
 Acerca de mí 🚀
- ¡Hola! Soy Felix Lopez Martinez, Auxiliar de inventario con 7 años de experiencias en la parte de logística y análisis de inventario,Actualmente apasionado como programador Full Stack enfocado en la transformación digital y desarrollado de proyectos web
+ ¡Hola! Soy Felix Lopez Martinez, Auxiliar de inventario con 7 años de experiencias en la parte de logística y análisis de inventario, Actualmente apasionado como programador Full Stack enfocado en la transformación digital y desarrollado de proyectos web
 
 Habilidades Blandas 🤝
 - Actitud Positiva

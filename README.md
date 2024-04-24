@@ -6,7 +6,7 @@ Desarrollador Full-Stack apasionado de Colombia
 
 
 Lenguajes y Herramientas:
-bootstrap css3 express git html5 javascript nodejs postgresql postman python react redux tailwind
+Desarrollador FullStack | JavaScript | React.js | Redux | Node js | PostgreSQL | express | Sequelize
 
 Asociaciones
 Bosco
